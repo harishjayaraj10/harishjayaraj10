@@ -1,20 +1,24 @@
-## Hi there 👋
 
-<!--
-**harishjayaraj10/harishjayaraj10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
--->
-- 🔭 I’m currently working on AI for Manufacturing
-- 🌱 I’m currently learning Svelte, Rust, Tauri
-<!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
--->
-- 💬 Ask me about OpenFOAM, CFD
-- 📫 How to reach me: harish100603@gmail.com (or) codeynamics@gamil.com
-<!--
-- 😄 Pronouns: ...
--->
-- ⚡ Fun fact: You are floating on a rock in the middle of nowhere. But you have to stay hydrated and eat healthy. lol. 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harishjayaraj10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harishjayaraj10&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishjayaraj10&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harishjayaraj10&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harishjayaraj10&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%"/>
+</p>
+
+---
+
+<p align="center">
+  📧 harish100603@gmail.com • codeynamics@gmail.com
+</p>
