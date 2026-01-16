@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=harishjayaraj10&theme=nightowl&hide_border=true" 
+    src="https://streak-stats.demolab.com?user=harishjayaraj10&theme=github-light&hide_border=true" 
     alt="GitHub Streak"
   />
 </p>
