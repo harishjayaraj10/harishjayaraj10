@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://harishjayaraj10.github.io/harish-jayaraj-portfolio/">Portfolio</a> •
-  <a href="https://linkedin.com/in/harish-jayaraj-p-60a189195">LinkedIn</a> •
-  <a href="https://www.youtube.com/@Codeynamics">YouTube</a>
+  <a href="https://harishjayaraj10.github.io/harish-jayaraj-portfolio/" target="_blank">Portfolio</a> •
+  <a href="https://linkedin.com/in/harish-jayaraj-p-60a189195" target="_blank">LinkedIn</a> •
+  <a href="https://www.youtube.com/@Codeynamics" target="_blank">YouTube</a>
 </p>
 
 ---
